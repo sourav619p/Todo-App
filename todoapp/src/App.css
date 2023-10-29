@@ -1,0 +1,30 @@
+.custom-left-20 {
+  left: 58%;
+  margin-left: 8px;
+}
+
+.btn{
+  width: 16px;
+  height: 16px;
+  margin-bottom: 3px;
+}
+
+.bord{
+  border:  3px solid #e30513;
+  color: white;
+}
+
+.colour{
+  color: #e30513;
+}
+
+.bgcol{
+  background-color: #121111;
+}
+
+.bordcol{
+  border:  2px solid #e30513;
+  background-color: #1a1817;
+  color: white;
+}
+
